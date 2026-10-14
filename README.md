@@ -47,6 +47,7 @@ Model Context Protocol endpoints that let AI agents work with Upwork data and wo
 - [realitech upwork-mcp](https://lobehub.com/mcp/realitechteam-upwork-mcp) - MCP server exposing the Upwork GraphQL API as agent tools; session persisted after one interactive login.
 - [@chinchillaenterprises/mcp-upwork](https://www.npmjs.com/package/@chinchillaenterprises/mcp-upwork) - Upwork MCP server with GraphQL API, proposal webhooks and external token management.
 - [Moxlade — Upwork Buyer Intelligence](https://buyer.moxlade.com/?ref=awesome-upwork) - MCP endpoint over a proprietary Upwork corpus: who the anonymous client behind a posting really is, what they have actually paid, and the market rate for a skill. Answers only; the corpus never leaves.
+- [flconsole](https://flconsole.com/mcp) - Free hosted MCP server for new Upwork jobs by saved feeds or filters; the same feeds send Telegram alerts. No Upwork login.
 - [Upwork MCP — SaaS Ideas](https://apify.com/epicscrapers/upwork-scraper-mcp) - Mines Upwork postings for SaaS product ideas, exposed over MCP.
 
 ## Job Data & Scrapers
